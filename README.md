@@ -1,4 +1,4 @@
-<img width="3000" height="2000" alt="LEPY-01" src="https://github.com/user-attachments/assets/5c0156d4-1c47-48dd-9a72-18ecc71bdac7" />
+<img width="12000" height="8000" alt="LEPY-01" src="https://github.com/user-attachments/assets/5c0156d4-1c47-48dd-9a72-18ecc71bdac7" />
 
 # LEPY Supplementary Information Repository
 Supplementary Information files for the paper **"LEPY: A Python-Based Pipeline for Automated Morphological Trait Analysis of Lepidoptera Images."**  
