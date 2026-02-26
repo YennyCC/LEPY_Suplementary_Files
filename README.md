@@ -7,7 +7,7 @@ LEPY: A Python-Based Pipeline for Automated Morphological Trait Analysis of Lepi
 (Submitted to Ecological Informatics)
 
 DOI (Data Repository):
-https://doi.org/10.5281/zenodo.18759822
+[https://doi.org/10.5281/zenodo.18787084](https://doi.org/10.5281/zenodo.18787084)
 
 This repository contains the supplementary materials and datasets associated with the LEPY publication.
 
@@ -41,4 +41,4 @@ The preprint version of the manuscript is available at:
 
 If you use the data or supplementary material from this repository, please cite:
 
-Correa-Carmona et al. (2026). LEPY – Supplementary Information & Data Repository. Zenodo. https://doi.org/10.5281/zenodo.18759822
+Yenny Correa-Carmona. (2026). YennyCC/LEPY_Suplementary_Files: LEPY_repository_Ecological_Informatics. Zenodo. https://doi.org/10.5281/zenodo.18787084
