@@ -31,11 +31,11 @@ Code for high-throughput image processing:
 
 👉 https://github.com/DesBoe/LepyLoop
 
-📄 Preprint
+📄 Paper
 
-The preprint version of the manuscript is available at:
+The paper was published in *Ecological Informatics*:
 
-👉 https://ecoevorxiv.org/repository/view/8842/
+👉 https://doi.org/10.1016/j.ecoinf.2026.103680
 
 📖 How to Cite
 
